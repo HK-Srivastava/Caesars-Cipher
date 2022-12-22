@@ -2,7 +2,7 @@
 A beginner level JavaScript project.
 
 ## Task
-Decrpts ROT13 Caeaser Cipher
+Decrpts ROT13 Caesars Cipher
   
 ## Programing concepts utilized
   * ES6
